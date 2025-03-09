@@ -6,5 +6,3 @@ var canJump = function (nums) {
     }
     return true;
 };
-
-console.log(canJump([3, 2, 1, 0, 4]));
